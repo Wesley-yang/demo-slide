@@ -3,6 +3,7 @@
 轮播图在手机应用中已经很常见了，为了方便开发者快速使用，我们提供了一个得用 Swipe.js 实现的轮播图、轮播菜单示例。
 
 ##这个示例以脚本方式为开发者实现了一个引导页
+
 * 示例请使用 Apploader 查看。
 
 ##开发指南
@@ -49,4 +50,4 @@
 </tr>
 </table>
 
-[推荐文档](http://www.jiawin.com/swipe-mobile-touch-slider)
+* 推荐文档([http://www.jiawin.com/swipe-mobile-touch-slider](http://www.jiawin.com/swipe-mobile-touch-slider))
